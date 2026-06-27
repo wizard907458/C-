@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\C\u002B\u002B\\C-\\CLASS_OBJECT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0AE678-F233-4A14-B517-D704E5288FFD}|CLASS_OBJECT\\CLASS_OBJECT.vcxproj|D:\\CODE\\C\u002B\u002B\\C-\\CLASS_OBJECT\\CLASS_OBJECT\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B0AE678-F233-4A14-B517-D704E5288FFD}|CLASS_OBJECT\\CLASS_OBJECT.vcxproj|solutionrelative:CLASS_OBJECT\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0AE678-F233-4A14-B517-D704E5288FFD}|CLASS_OBJECT\\CLASS_OBJECT.vcxproj|D:\\CODE\\C\u002B\u002B\\C-\\CLASS_OBJECT\\CLASS_OBJECT\\Stack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B0AE678-F233-4A14-B517-D704E5288FFD}|CLASS_OBJECT\\CLASS_OBJECT.vcxproj|solutionrelative:CLASS_OBJECT\\Stack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0AE678-F233-4A14-B517-D704E5288FFD}|CLASS_OBJECT\\CLASS_OBJECT.vcxproj|D:\\CODE\\C\u002B\u002B\\C-\\CLASS_OBJECT\\CLASS_OBJECT\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B0AE678-F233-4A14-B517-D704E5288FFD}|CLASS_OBJECT\\CLASS_OBJECT.vcxproj|solutionrelative:CLASS_OBJECT\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stack.cpp",
+              "DocumentMoniker": "D:\\CODE\\C\u002B\u002B\\C-\\CLASS_OBJECT\\CLASS_OBJECT\\Stack.cpp",
+              "RelativeDocumentMoniker": "CLASS_OBJECT\\Stack.cpp",
+              "ToolTip": "D:\\CODE\\C\u002B\u002B\\C-\\CLASS_OBJECT\\CLASS_OBJECT\\Stack.cpp*",
+              "RelativeToolTip": "CLASS_OBJECT\\Stack.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-27T08:40:24.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stack.c",
+              "DocumentMoniker": "D:\\CODE\\C\u002B\u002B\\C-\\CLASS_OBJECT\\CLASS_OBJECT\\Stack.c",
+              "RelativeDocumentMoniker": "CLASS_OBJECT\\Stack.c",
+              "ToolTip": "D:\\CODE\\C\u002B\u002B\\C-\\CLASS_OBJECT\\CLASS_OBJECT\\Stack.c",
+              "RelativeToolTip": "CLASS_OBJECT\\Stack.c",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAYwGcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-06-27T07:58:15.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\CODE\\C\u002B\u002B\\C-\\CLASS_OBJECT\\CLASS_OBJECT\\Main.cpp",
+              "RelativeDocumentMoniker": "CLASS_OBJECT\\Main.cpp",
+              "ToolTip": "D:\\CODE\\C\u002B\u002B\\C-\\CLASS_OBJECT\\CLASS_OBJECT\\Main.cpp",
+              "RelativeToolTip": "CLASS_OBJECT\\Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-06-27T02:56:02.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
