@@ -1,0 +1,10 @@
+﻿  Day01-hcpp.cpp
+D:\CODE\C++\C-\Day01-hcpp\Day01-hcpp\Example.h(1,13): warning C4081: 应输入“newline”；找到“;”
+  (编译源文件“Day01-hcpp.cpp”)
+  
+  Example.cpp
+D:\CODE\C++\C-\Day01-hcpp\Day01-hcpp\Example.h(1,13): warning C4081: 应输入“newline”；找到“;”
+  (编译源文件“Example.cpp”)
+  
+  正在生成代码...
+  Day01-hcpp.vcxproj -> D:\CODE\C++\C-\Day01-hcpp\x64\Debug\Day01-hcpp.exe
